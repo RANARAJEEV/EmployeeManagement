@@ -31,4 +31,5 @@ Frontend (React): Consumes the exposed APIs to display and manage data
 📂 Project Structure
 
 Backend → Spring Boot Microservices
+
 Frontend → React application
